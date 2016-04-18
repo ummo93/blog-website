@@ -61,7 +61,7 @@ $(function() {
     // Defaults to Github pages branch (gh-pages)
     githubSettings: {
       branch: 'gh-pages',
-      host: 'https://api.github.com'
+      host: 'https://api.github.com/'
     }
 
   });

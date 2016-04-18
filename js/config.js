@@ -54,14 +54,14 @@ $(function() {
      // If Github mode is set, your Github username and repo name.
     githubUserSettings: {
       username: 'ummo93',
-      repo: 'https://github.com/ummo93/blog-website.git'
+      repo: 'blog-website'
     },
 
     // If Github mode is set, choose which Github branch to get files from.
     // Defaults to Github pages branch (gh-pages)
     githubSettings: {
       branch: 'gh-pages',
-      host: ''
+      host: 'https://api.github.com/'
     }
 
   });
