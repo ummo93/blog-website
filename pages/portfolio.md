@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About
+title: Portfolio
 ---
 
 Hello! I'm a frontend developer, i give you a some links from me:
