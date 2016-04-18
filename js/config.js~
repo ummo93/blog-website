@@ -17,7 +17,7 @@ $(function() {
     // Navigation items
     siteNavItems: [
       { name: 'Github', href: 'https://github.com/ummo93', newWindow: false},
-      { name: 'About'}
+      { name: 'Portfolio'}
     ],
 
     // Posts folder name
