@@ -3,7 +3,7 @@ $(function() {
   CMS.init({
 
     // Name of your site or location of logo file, relative to root directory (img/logo.png)
-    siteName: "Austere's blog (ummo93)",
+    siteName: "Austere blog (ummo93)",
 
     // Tagline for your site
     siteTagline: 'Frontend development (html, css, js, angular)',
