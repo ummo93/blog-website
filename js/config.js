@@ -6,7 +6,7 @@ $(function() {
     siteName: "Austere`s blog (ummo93)",
 
     // Tagline for your site
-    siteTagline: 'Frontend development (html, css, js, angular)',
+    siteTagline: 'Frontend development',
 
     // Email address
     siteEmail: 'ummo93@gmail.com',
@@ -16,8 +16,8 @@ $(function() {
 
     // Navigation items
     siteNavItems: [
-      { name: 'Github', href: 'https://github.com/ummo93', newWindow: true},
-      { name: 'About me'}
+      { name: 'Github', href: 'https://github.com/ummo93', newWindow: false},
+      { name: 'About'}
     ],
 
     // Posts folder name
