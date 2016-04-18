@@ -17,7 +17,7 @@ var CMS = {
     siteUrl: '',
     siteNavItems: [
       { name: 'Github', href: '#', newWindow: false },
-      { name: 'Portfolio' }
+      { name: 'About' }
     ],
     pagination: 3,
     postsFolder: 'posts',
